@@ -1,0 +1,41 @@
+.recipe-media-section {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.media-block {
+  margin-bottom: 1.5rem;
+}
+
+.media-block h3 {
+  font-size: 1rem;
+  margin: 0 0 0.25rem;
+}
+
+.media-hint {
+  font-size: 0.875rem;
+  color: var(--text);
+  margin: 0 0 0.75rem;
+}
+
+.handwritten-slot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.show-memory-pickers {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.show-memory-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}

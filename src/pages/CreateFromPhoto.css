@@ -1,0 +1,41 @@
+.create-from-photo {
+  padding: 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.create-from-photo h1 {
+  margin: 0 0 0.5rem;
+  font-size: 1.5rem;
+}
+
+.create-from-photo .hint {
+  margin: 0 0 1rem;
+  color: var(--text);
+  font-size: 0.9375rem;
+}
+
+.pick-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.back-hint {
+  margin-top: 1rem;
+  font-size: 0.875rem;
+}
+
+.back-hint a {
+  color: var(--accent);
+}
+
+.form-with-photo {
+  margin-top: 1rem;
+}
+
+.create-from-photo .loading {
+  text-align: center;
+  padding: 2rem 0;
+}
